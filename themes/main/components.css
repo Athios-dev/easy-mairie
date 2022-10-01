@@ -6,6 +6,15 @@
 .notion-header {
   display: var(--notion-header-display)!important;
 }
+.notion-header__icon-wrapper {
+  display: var(--notion-header-display-icon)!important;
+}
+.notion-header__cover {
+  display: var(--notion-header-display-cover)!important;
+}
+.notion-header__title {
+    display: var(--notion-header-display-title)!important;
+  }
 
 /* Max Width */
 

@@ -85,6 +85,9 @@
 
   /* Hide Notion Header (Page title, icon and cover) */
   --notion-header-display: block!important;
+  --notion-header-display-icon: block!important;
+  --notion-header-display-title: block!important;
+  --notion-header-display-cover: block!important;
 
 	/* Top Spacing (If you remove the Notion header, change to '20px' or more) */
   --top-spacing: 0px!important;

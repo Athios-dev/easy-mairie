@@ -1,4 +1,7 @@
 :root {
+	
+	/* ========== SUPER VARIABLES ========== */
+	
   /* Width of content */
   --max-width: 900px!important;
 
@@ -102,16 +105,12 @@
   --color-card-bg: rgb(255, 255, 255)!important;
   --color-border-default: rgba(235, 236, 237, 0.8)!important;
   --color-border-dark: rgba(55, 53, 47, 0.16)!important;
-}
-
-/* TOGGLE */
-.notion-toggle {
-  border: var(--callout-border) !important;
-  margin: 6px 0 !important;
-  padding: var(--callout-padding) !important;
-  border-radius: var(--callout-border-radius) !important;
-  box-shadow: var(--callout-shadow) !important;
-}
-.notion-toggle__summary {
-  padding: 0 !important;
+	
+	/* ========== CUSTOM VARIABLES ========== */
+	
+	--color-primary: 100, 100, 100!important;
+	--color-secondary: 200, 100, 100!important;
+	--color-text-primary: rgb(var(--color-primary))!important;
+	--color-text-secondary: rgb(var(--color-secondary))!important;
+	
 }

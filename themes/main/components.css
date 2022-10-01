@@ -25,10 +25,9 @@
 /* Super Navbar */
 
 .super-navbar__cta {
-    padding: var(--cta-padding)!important;
     border-radius: var(--cta-border-radius)!important;
     border: var(--cta-border)!important;
-    box-shadow: var(--callout-shadow)!important;
+    box-shadow: var(--cta-shadow)!important;
     background: var(--cta-bg-color)!important;
     color: var(--cta-text-color)!important;
 }

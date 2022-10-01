@@ -25,6 +25,8 @@
   --cta-border-radius: 5px!important;
   --cta-border: none!important;
   --cta-shadow: none!important;
+  --cta-color-bg: var(--color-text-primary)!important;
+  --cta-color-text: var(--color-text-white)!important;
 
   /* Callouts */
   --callout-padding: 16px 16px 16px 12px!important;

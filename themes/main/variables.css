@@ -32,7 +32,7 @@
   --callout-padding: 16px 16px 16px 12px!important;
   --callout-margin: 2px 0px 4px 0px!important;
   --callout-border: 1px solid var(--color-border-default)!important;
-  --callout-border-radius: 3px!important;
+  --callout-border-radius: 100px!important;
   --callout-shadow: 0!important;
   --callout-icon-size: 18px!important;
   --callout-emoji-size: 18px!important;

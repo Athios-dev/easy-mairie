@@ -1,0 +1,11 @@
+/* TOGGLE */
+.notion-toggle {
+  border: var(--callout-border) !important;
+  margin: 6px 0 !important;
+  padding: var(--callout-padding) !important;
+  border-radius: var(--callout-border-radius) !important;
+  box-shadow: var(--callout-shadow) !important;
+}
+.notion-toggle__summary {
+  padding: 0 !important;
+}

@@ -101,7 +101,7 @@
   --cta-border: none!important;
   --cta-shadow: none!important;
   --cta-bg-color: var(--color-text-primary)!important;
-  --cta-text-color: var(--color-text-default)!important;
+  --cta-text-color: var(--color-white)!important;
 
   /* Callouts */
   --callout-padding: 16px 16px 16px 12px!important;

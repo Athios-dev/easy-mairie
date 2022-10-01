@@ -20,8 +20,8 @@
     border-radius: var(--cta-border-radius)!important;
     border: var(--cta-border)!important;
     box-shadow: var(--callout-shadow)!important;
-    background: var(--cta-bg-color);
-    color: var(--cta-text-color);
+    background: var(--cta-bg-color)!important;
+    color: var(--cta-text-color)!important;
 }
 
 /* Typography */

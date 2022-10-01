@@ -27,6 +27,7 @@
 .super-navbar {
     background: var(--navbar-background-color)!important;
     color: var(--navbar-text-color)!important;
+    height: var(--navbar-height)!important;
 }
 
 .super-navbar__cta {

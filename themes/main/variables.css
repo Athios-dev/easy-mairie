@@ -101,6 +101,7 @@
   /* Super Navbar CTA Button */
   --navbar-background-color: var(--color-text-primary)!important;
   --navbar-text-color: var(--color-white)!important;
+  --navbar-height: 64px!important;
 
   --cta-border-radius: 100px!important;
   --cta-border: none!important;

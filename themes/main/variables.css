@@ -1,5 +1,5 @@
 :root {
-  
+
   /* ========== CUSTOM VARIABLES ========== */
   
   --color-primary: 56, 182, 255!important;
@@ -34,6 +34,7 @@
   --color-text-purple: rgb(var(--color-purple))!important;
   --color-text-pink: rgb(var(--color-pink))!important;
   --color-text-red: rgb(var(--color-red))!important;
+
   /* Background */
   --color-bg-default: rgba(var(--color-white))!important;
   --color-bg-gray: rgba(var(--color-gray),.18)!important;
@@ -45,6 +46,7 @@
   --color-bg-purple: rgba(var(--color-purple),.15)!important;
   --color-bg-pink: rgba(var(--color-pink),.15)!important;
   --color-bg-red: rgba(var(--color-red),.15)!important;
+
   /* Background Light  */
   --color-bg-gray-light: rgba(var(--color-gray),.05)!important;
   --color-bg-brown-light: rgba(var(--color-brown),.05)!important;
@@ -55,6 +57,7 @@
   --color-bg-purple-light: rgba(var(--color-purple),.05)!important;
   --color-bg-pink-light: rgba(var(--color-pink),.05)!important;
   --color-bg-red-light: rgba(var(--color-red),.05)!important;
+  
   /* Pill */
   --color-pill-default: rgba(var( --color-default), 0.5)!important;
   --color-pill-gray: rgba(var(--color-gray),.2)!important;
@@ -98,7 +101,7 @@
   --cta-border: none!important;
   --cta-shadow: none!important;
   --cta-bg-color: var(--color-text-primary)!important;
-  --cta-text-color: var(--color-text-white)!important;
+  --cta-text-color: var(--color-text-default)!important;
 
   /* Callouts */
   --callout-padding: 16px 16px 16px 12px!important;

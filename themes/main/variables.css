@@ -108,8 +108,8 @@
 	
 	/* ========== CUSTOM VARIABLES ========== */
 	
-	--color-primary: 100, 100, 100!important;
-	--color-secondary: 200, 100, 100!important;
+	--color-primary: 56, 182, 255!important;
+	--color-secondary: 255, 84, 84!important;
 	--color-text-primary: rgb(var(--color-primary))!important;
 	--color-text-secondary: rgb(var(--color-secondary))!important;
 	

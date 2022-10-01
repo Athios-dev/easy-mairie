@@ -24,6 +24,11 @@
 
 /* Super Navbar */
 
+.super-navbar {
+    background: var(--navbar-background-color);
+    color: var(--navbar-text-color);
+}
+
 .super-navbar__cta {
     border-radius: var(--cta-border-radius)!important;
     border: var(--cta-border)!important;

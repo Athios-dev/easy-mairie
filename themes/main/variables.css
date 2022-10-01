@@ -99,6 +99,9 @@
   --collection-header-border: 1px solid var(--color-border-dark)!important;
 
   /* Super Navbar CTA Button */
+  --navbar-background-color: var(--color-text-primary)!important;
+  --navbar-text-color: var(--color-white)!important;
+
   --cta-border-radius: 100px!important;
   --cta-border: none!important;
   --cta-shadow: none!important;
